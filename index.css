@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+}
+section{
+    justify-content: center;
+   align-items: center;
+   border: 1px solid olivedrab;
+}
+svg{
+    width: 10%;
+    height: 3%;
+    justify-content: center;
+    align-items: center;
+}
+.svg{
+    display: flex;
+    align-items: center;
+    margin: 2%;
+    justify-content: center;
+}
+p{
+    text-align: center;
+}
+a{
+    color: blanchedalmond;
+}
+.button{
+    background: #000;
+    
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: none;
+}
