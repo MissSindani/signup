@@ -5,7 +5,7 @@ body{
 section{
     justify-content: center;
    align-items: center;
-   border: 1px solid olivedrab;
+   border: 1px solid black;
 }
 svg{
     width: 10%;
@@ -27,7 +27,7 @@ a{
 }
 .button{
     background: #000;
-    
+
     display: block;
     justify-content: center;
     align-items: center;

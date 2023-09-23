@@ -9,5 +9,11 @@ if (firstEmail !== lastEmail ){
     console("Email Address Match")
 };
 
+if (firstPassword !== lastPassword ){
+    console("Password Do Not Match")
+} else{
+    console("Password Match")
+};
+
 
   
